@@ -186,6 +186,17 @@ nav .active {
 #tecnologias {
     background-color: #e20000;
 }
+.card {
+    height: 182px;
+}
+.card h3, .card img {
+    font-size: 10px;
+    text-align: center;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
 
 
 
