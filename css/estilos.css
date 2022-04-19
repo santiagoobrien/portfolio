@@ -197,6 +197,17 @@ nav .active {
     max-width: 100%;
     height: auto;
 }
+.fa-star, .fa-comment-alt{
+    font-size: 80px;
+    padding-top: 40%;
+}
+.img-circle {
+    margin: 1em auto;
+    display: block;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 50%;
+}
 
 
 
